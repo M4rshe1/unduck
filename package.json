@@ -9,10 +9,13 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/node": "^22.13.9",
+    "ts-node": "^10.9.2",
     "typescript": "~5.7.2",
     "vite": "^6.1.0"
   },
   "dependencies": {
+    "fs": "^0.0.1-security",
     "lucide-static": "^0.473.0",
     "vite-plugin-pwa": "^0.21.1"
   }
