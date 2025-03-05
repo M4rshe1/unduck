@@ -5,17 +5,16 @@ WORKDIR /app
 
 # Copy package files
 COPY package*.json ./
-COPY pnpm-lock.yaml ./
+COPY package-lock.json ./
 
 # Install pnpm and dependencies
-RUN npm install -g pnpm
-RUN pnpm install
+RUN npm ci
 
 # Copy source code (node_modules is excluded via .dockerignore)
 COPY . .
 
 # Build the application
-RUN pnpm build
+RUN npm build
 
 # Production stage
 FROM nginx:alpine
