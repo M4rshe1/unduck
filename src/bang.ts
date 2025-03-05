@@ -633,10 +633,6 @@ export const bangs: Record<string, Bang> = {
         "t": "aaw",
         "u": "http://aceattorney.wikia.com/wiki/{{{s}}}"
     },
-    "àax": {
-        "t": "àax",
-        "u": "http://www.albumartexchange.com/covers?fltr=ALL&sort=TITLE&q={{{s}}}"
-    },
     "aax": {
         "t": "aax",
         "u": "http://www.albumartexchange.com/covers.php?q={{{s}}}"
@@ -1721,14 +1717,6 @@ export const bangs: Record<string, Bang> = {
         "t": "allocine",
         "u": "http://www.allocine.fr/recherche/?q={{{s}}}"
     },
-    "allociné": {
-        "t": "allociné",
-        "u": "http://www.allocine.fr/recherche/?q={{{s}}}"
-    },
-    "allposters": {
-        "t": "allposters",
-        "u": "http://www.allposters.com/gallery.asp?txtSearch={{{s}}}"
-    },
     "allrecipes": {
         "t": "allrecipes",
         "u": "http://allrecipes.com/search/results/?wt={{{s}}}"
@@ -2369,17 +2357,9 @@ export const bangs: Record<string, Bang> = {
         "t": "anlaf",
         "u": "https://www.apertium.org/index.eng.html?dir=nld-afr&q={{{s}}}"
     },
-    "anlamı": {
-        "t": "anlamı",
-        "u": "http://nedir-sozluk.com/ara/{{{s}}}"
-    },
     "anmat": {
         "t": "anmat",
         "u": "http://www.anmat.gov.ar/resultados.asp?cx=018082787451070703178%3Arx-vbt5pdfu&cof=FORID%3A10&ie=UTF-8&q={{{s}}}"
-    },
-    "ann": {
-        "t": "ann",
-        "u": "http://www.animenewsnetwork.com/search?cx=016604166282602569737:znd1ysjewre&cof=FORID:11&q={{{s}}}"
     },
     "anne": {
         "t": "anne",
@@ -3861,10 +3841,6 @@ export const bangs: Record<string, Bang> = {
         "t": "ax",
         "u": "http://androidxref.com/5.1.0_r1/search?&project=abi&project=art&project=bionic&project=bootable&project=build&project=cts&project=dalvik&project=developers&project=development&project=device&project=docs&project=external&project=frameworks&project=hardware&project=libcore&project=libnativehelper&project=ndk&project=packages&project=pdk&project=prebuilts&project=sdk&project=system&project=tools&q={{{s}}}"
     },
-    "äx": {
-        "t": "äx",
-        "u": "https://www.levykauppax.fi/search/?q={{{s}}}"
-    },
     "ay": {
         "t": "ay",
         "u": "https://www.aboutyou.de/suche?term={{{s}}}&search_source=ddgo"
@@ -3872,10 +3848,6 @@ export const bangs: Record<string, Bang> = {
     "ayrne": {
         "t": "ayrne",
         "u": "https://ayrne.io/?s={{{s}}}"
-    },
-    "az": {
-        "t": "az",
-        "u": "https://www.amazon.com/s?k={{{s}}}"
     },
     "azd": {
         "t": "azd",
@@ -5680,10 +5652,6 @@ export const bangs: Record<string, Bang> = {
     "boingboing": {
         "t": "boingboing",
         "u": "http://www.google.com/cse?cx=partner-pub-2170174688585464:d58nno-rqp8&ie=ISO-8859-1&q={{{s}}}&sa=GO&siteurl=www.boingboing.net/"
-    },
-    "bokmålsordboka": {
-        "t": "bokmålsordboka",
-        "u": "http://ordbok.uib.no/perl/ordbok.cgi?OPP=+{{{s}}}&ant_bokmaal=5&ant_nynorsk=5&bokmaal=+&ordbok=bokmaal"
     },
     "bokus": {
         "t": "bokus",
@@ -12089,10 +12057,6 @@ export const bangs: Record<string, Bang> = {
         "t": "dorfor",
         "u": "https://www.steinberg.net/forums/search.php?keywords={{{s}}}&fid%5B0%5D=246"
     },
-    "dörner": {
-        "t": "dörner",
-        "u": "https://buecher-doerner.buchhandlung.de/shop/quickSearch?searchString={{{s}}}"
-    },
     "dota2": {
         "t": "dota2",
         "u": "http://wiki.teamliquid.net/dota2/index.php?search={{{s}}}"
@@ -13656,10 +13620,6 @@ export const bangs: Record<string, Bang> = {
     "ekm": {
         "t": "ekm",
         "u": "https://www.ebay-kleinanzeigen.de/s-muenchen/{{{s}}}/k0l6411"
-    },
-    "ekşi": {
-        "t": "ekşi",
-        "u": "https://eksisozluk.com/?q={{{s}}}"
     },
     "eksi": {
         "t": "eksi",
@@ -24669,10 +24629,6 @@ export const bangs: Record<string, Bang> = {
         "t": "jadi",
         "u": "https://jadi.net/?s={{{s}}}"
     },
-    "já": {
-        "t": "já",
-        "u": "http://ja.is/?q={{{s}}}"
-    },
     "ja": {
         "t": "ja",
         "u": "http://www.j-archive.com/search.php?search={{{s}}}"
@@ -26192,10 +26148,6 @@ export const bangs: Record<string, Bang> = {
     "kojipkg": {
         "t": "kojipkg",
         "u": "http://koji.fedoraproject.org/koji/search?match=glob&type=package&terms={{{s}}}"
-    },
-    "köket": {
-        "t": "köket",
-        "u": "https://www.koket.se/search?searchtext={{{s}}}"
     },
     "kokothemes": {
         "t": "kokothemes",
@@ -28417,10 +28369,6 @@ export const bangs: Record<string, Bang> = {
         "t": "ludwig",
         "u": "https://ludwig.guru/s/{{{s}}} "
     },
-    "lugatım": {
-        "t": "lugatım",
-        "u": "http://lugatim.com/s/{{{s}}}"
-    },
     "lugat": {
         "t": "lugat",
         "u": "http://www.lugatim.com/s/{{{s}}}"
@@ -29000,10 +28948,6 @@ export const bangs: Record<string, Bang> = {
     "maori": {
         "t": "maori",
         "u": "http://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords={{{s}}}"
-    },
-    "māori": {
-        "t": "māori",
-        "u": "http://maoridictionary.co.nz/search?keywords={{{s}}}"
     },
     "mapfan": {
         "t": "mapfan",
@@ -32745,10 +32689,6 @@ export const bangs: Record<string, Bang> = {
         "t": "ngt",
         "u": "http://tracking.newgistics.com/?trackingvalue={{{s}}}"
     },
-    "ngü": {
-        "t": "ngü",
-        "u": "http://www.bibleserver.com/search/NG%C3%9C/{{{s}}}"
-    },
     "nhd": {
         "t": "nhd",
         "u": "http://nhd.heinle.com/Definition.aspx?word={{{s}}}"
@@ -34752,10 +34692,6 @@ export const bangs: Record<string, Bang> = {
     "osdn": {
         "t": "osdn",
         "u": "https://osdn.net/search/?iq={{{s}}}"
-    },
-    "õs": {
-        "t": "õs",
-        "u": "http://www.eki.ee/dict/qs/index.cgi?Q={{{s}}}"
     },
     "osf": {
         "t": "osf",
@@ -44913,10 +44849,6 @@ export const bangs: Record<string, Bang> = {
         "t": "tagi",
         "u": "https://www.tagesanzeiger.ch/service/suche/suche.html?date=alle&order=date&key={{{s}}}"
     },
-    "tåg": {
-        "t": "tåg",
-        "u": "https://www.trafikverket.se/trafikinformation/tag/?&TrainOrStation={{{s}}}"
-    },
     "taid": {
         "t": "taid",
         "u": "https://www.therapistaid.com/search?query={{{s}}}"
@@ -47361,10 +47293,6 @@ export const bangs: Record<string, Bang> = {
         "t": "tureng",
         "u": "http://tureng.com/tr/turkce-ingilizce/{{{s}}}"
     },
-    "türen": {
-        "t": "türen",
-        "u": "https://tuerenmarkt24.de/suche?controller=search&orderby=position&orderway=desc&search_query=deur{{{s}}}"
-    },
     "turnstone": {
         "t": "turnstone",
         "u": "http://myturnstone.com/?s={{{s}}}&lang=en"
@@ -48220,10 +48148,6 @@ export const bangs: Record<string, Bang> = {
     "unic": {
         "t": "unic",
         "u": "https://unicode-table.com/en/search/?q={{{s}}}"
-    },
-    "unigö": {
-        "t": "unigö",
-        "u": "http://www.uni-goettingen.de/de/suche.html?query={{{s}}}"
     },
     "unilad": {
         "t": "unilad",
