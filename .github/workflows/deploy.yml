@@ -17,8 +17,11 @@ jobs:
         with:
           node-version: '21'
 
-      - name: Install Dependencies
-        run: npm install
+      - name: Clean Install
+        run: |
+          rm -rf node_modules
+          rm -f package-lock.json
+          npm ci --legacy-peer-deps
 
       - name: Build Project
         run: npm run build
