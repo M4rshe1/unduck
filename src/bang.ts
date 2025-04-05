@@ -10681,8 +10681,8 @@ export const bangs: Record<string, Bang> = {
         "t": "deepdyve",
         "u": "https://www.deepdyve.com/search?query={{{s}}}"
     },
-    "deepl": {
-        "t": "deepl",
+    "dl": {
+        "t": "dl",
         "u": "https://www.deepl.com/translator#xx/en/{{{s}}}"
     },
     "deepleen": {
@@ -11673,8 +11673,8 @@ export const bangs: Record<string, Bang> = {
         "t": "dlc",
         "u": "http://www.dlcompare.com/search?q={{{s}}}"
     },
-    "dl": {
-        "t": "dl",
+    "desdelinux": {
+        "t": "desdelinux",
         "u": "http://blog.desdelinux.net/?s={{{s}}}"
     },
     "dleague": {
